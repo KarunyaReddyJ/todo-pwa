@@ -4,7 +4,8 @@ const assets = [
   './index.html',
   './style.css',
   './app.js',
-  './manifest.json'
+  './manifest.json',
+  './more-apps-icon-0.jpg'
 ];
 
 // Install event: Cache the assets
