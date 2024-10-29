@@ -1,12 +1,13 @@
 const CACHE_NAME = 'todo-pwa-v1';
 const assets = [
-  './',
-  './index.html',
-  './style.css',
-  './app.js',
-  './manifest.json',
-  './more-apps-icon-0.jpg'
-];
+    './',
+    './index.html',
+    './style.css',
+    './app.js',
+    './manifest.json',
+    './icon.png'
+  ];
+  
 
 // Install event: Cache the assets
 self.addEventListener('install', event => {
